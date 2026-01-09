@@ -22,5 +22,11 @@
     "image": "./assets/projeto-mario.png",
     "tags": ["Flexbox", "Background animado"],
     "link": "https://github.com/Pedr0Sabainsk/Site-do-filme-Super-Mario-Bros"
+  },
+  {
+    "name": "Sider Carrousel 3D",
+    "image": "./assets/projeto-SLIDER_CARROUSEL_3D.png",
+    "tags": ["3D", "Carousel", "Animação"],
+    "link": "https://github.com/Pedr0Sabainsk/seu-link-aqui"
   }
 ]
