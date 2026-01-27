@@ -1,0 +1,82 @@
+[
+  {
+    "name": "UI Clone do Disney Plus",
+    "image": "./assets/projeto-disney-plus.png",
+    "tags": ["HTML", "CSS", "Javascript", "API TMDB"],
+    "link": "https://github.com/Pedr0Sabainsk/-Interface-do-Disney-Plus-com-HTML-CSS-e-Javascript/tree/main"
+  },
+  {
+    "name": "Formulário integrado com o Netlify Forms",
+    "image": "./assets/projeto-formulario.png",
+    "tags": ["Evento de formulário", "Animações", "Netlify"],
+    "link": "https://github.com/Pedr0Sabainsk/-Formul-rio-com-HTML-e-CSS-Netlify-Forms"
+  },
+  {
+    "name": "Personagens do Guardiões da Galáxia",
+    "image": "./assets/projeto-guardioes.png",
+    "tags": ["Javascript", "Menu interativo"],
+    "link": "https://github.com/Pedr0Sabainsk/Guardi-es-da-Gal-xia"
+  },
+  {
+    "name": "Landing page do filme Mario Bros",
+    "image": "./assets/projeto-mario.png",
+    "tags": ["Flexbox", "Background animado"],
+    "link": "https://github.com/Pedr0Sabainsk/Site-do-filme-Super-Mario-Bros"
+  },
+  {
+    "name": "Slider Carrousel 3D",
+    "image": "./assets/projeto-SLIDER_CARROUSEL_3D.png",
+    "tags": ["3D", "Carousel", "Animação"],
+    "link": "https://github.com/Pedr0Sabainsk/SLIDER-CARROUSEL-3D/tree/main"
+  },
+  {
+    "name": "Previsão do Tempo",
+    "image": "./assets/previsao-tempo.jpg",
+    "tags": ["HTML", "CSS", "Javascript"],
+    "link": "https://github.com/Pedr0Sabainsk/Aplicativo-de-previs-o-do-tempo-com-HTML-CSS-e-Javascript"
+  },
+  {
+    "name": "Christmas Company",
+    "image": "./assets/papai-noel.jpg",
+    "tags": ["HTML", "CSS", "Javascript"],
+    "link": "https://github.com/Pedr0Sabainsk/PROJETO-SITE-NATAL"
+  },
+  {
+    "name": "Recriando o site da Barbie",
+    "image": "./assets/barbie.jpg",
+    "tags": ["HTML", "CSS", "Javascript"],
+    "link": "https://github.com/Pedr0Sabainsk/PROJETO-SITE-BARBIE"
+  },
+  {
+    "name": "Site RefriFresh",
+    "image": "./assets/DEVCLUB1.jpg",
+    "tags": ["HTML", "CSS", "Javascript"],
+    "link": "https://github.com/Pedr0Sabainsk/PROJETO---RefriFresh"
+  },
+  {
+    "name": "Site Troca de Cores e Imagens",
+    "image": "./assets/troca.cor.jpg",
+    "tags": ["HTML", "CSS", "Javascript"],
+    "link": "https://github.com/Pedr0Sabainsk/PROJETO---SITE-TROCA-COR/tree/main"
+  },
+  {
+    "name": "Site Gerador de Senhas",
+    "image": "./assets/gerador_senha.jpg",
+    "tags": ["HTML", "CSS", "Javascript"],
+    "link": "https://github.com/Pedr0Sabainsk/PROJETO-GERADOR-DE-SENHA"
+  },
+  {
+    "name": "Calculadora IMC",
+    "image": "./assets/CalculadoraIMC.jpg",
+    "tags": ["HTML", "CSS", "Javascript"],
+    "link": "https://github.com/Pedr0Sabainsk/MIni-Projeto-CalculadoraIMC"
+  },
+  {
+    "name": "Imersão Dados com Python — Alura",
+    "image": "./assets/alura.png",
+    "tags": ["Analise de Dados", "Python", "Jupyter Notebook"],
+    "link": "https://github.com/Pedr0Sabainsk/PROJETO---IMERS-O-DADOS-COM-PYTHON-ALURA"
+  }
+
+
+]
